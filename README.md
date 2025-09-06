@@ -142,15 +142,6 @@ servo.write(180 - angle);
 
 ---
 
-## Using your 2D drawing
-
-You already have a 2D drawing of the arm. To include it:
-- Place images/plans under `docs/images/` (e.g., `docs/images/arm_2d.png`).
-- Reference them here in the README:
-  - `![Arm 2D drawing](docs/images/arm_2d.png)`
-- If you have link lengths, you can later implement inverse kinematics (IK) for Cartesian positioning.
-
----
 
 ## Troubleshooting
 
@@ -199,18 +190,6 @@ Adjust these to ensure compilation and correct behavior:
 
 ---
 
-## License
-
-Choose a license that fits your needs (MIT, Apache-2.0, GPL-3.0, etc.). Example MIT:
-
-```
-MIT License
-
-Copyright (c) 2025 ...
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-...
-```
 
 ---
 
