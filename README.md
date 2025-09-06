@@ -196,6 +196,5 @@ Adjust these to ensure compilation and correct behavior:
 ## Credits
 
 - Arduino `Servo.h` library
-- Mechanical design: your 2D drawing
-- Author: You (and contributors)
+- design: solidworks
 
